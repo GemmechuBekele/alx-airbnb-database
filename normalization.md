@@ -58,4 +58,3 @@ Make sure the structure of the database is normalized fully up to **Third Normal
 ## ✔️ Remarks
 
 The schema outlined above meets **3NF** requirements. Thus, performance is enhanced while duplication is minimized, and robust data integrity is maintained within the Airbnb-similar system.
-
