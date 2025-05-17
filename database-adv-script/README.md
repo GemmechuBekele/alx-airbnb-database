@@ -12,6 +12,10 @@ This directory contains advanced SQL queries demonstrating both non-correlated a
 - `subqueries.sql`: Contains the SQL subqueries.
 - `README.md`: Explanation and usage.
 
+# Aggregations & Window Functions – ALX Airbnb Database
+
+This document demonstrates how to use SQL **aggregation functions** (`COUNT`, `GROUP BY`) and **window functions** (`RANK`) to analyze Airbnb booking and property data.
+
 ---
 
 ## 📌 Tables Used
